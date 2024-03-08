@@ -1,0 +1,48 @@
+header{
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    z-index: 1000;
+    position: sticky;
+    top: 0;
+}
+
+.back{
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cour{
+    background-color: rgba(0, 0, 0,0.75);
+}
+.letter li a{
+    letter-spacing: 4px;
+}
+.spac{
+    letter-spacing: 4px;
+}
+.tect{
+    letter-spacing: 4px;
+}
+.about .btm{
+    width: 100%;
+    
+}
+.but{
+    background-color: rgb(235, 231, 231);
+    
+}
+.about img{
+    filter: grayscale(75%);
+}
+.contact input{
+    width: 100%;
+}
+
+.mape img{
+    max-height: 100vh;
+    max-width: 100%;
+    filter: none;
+    vertical-align: middle;
+    box-sizing: inherit;
+}
